@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L&amp;Tapp</string>
+    <string name="ent_name">Enter the name</string>
+    <string name="ent_pwd">Enter the password</string>
+    <string name="login">Login</string>
+    <string name="cancel">cancel</string>
+</resources>
