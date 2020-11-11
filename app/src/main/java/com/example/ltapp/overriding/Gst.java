@@ -1,5 +1,4 @@
 package com.example.ltapp.overriding;
 
-public class IncomeTax{
-
+public class Gst extends IncomeTax {
 }

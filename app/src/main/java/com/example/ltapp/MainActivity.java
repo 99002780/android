@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         welcomeTextView=findViewById(R.id.textViewwelcome);
         welcomeTextView.setText(input);
         */
-        switch (view.getId()){
+       /* switch (view.getId()){
             case R.id.buttonLogin:
                 startHome();
                 break;
@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                 //"//http://www.google.com"));
                 startActivity(dialIntent);
                 break;
-        }
+        }*/
 
 
 
